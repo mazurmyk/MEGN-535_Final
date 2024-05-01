@@ -1,0 +1,292 @@
+[2024-04-13 08:57:28.759] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 08:57:28.765] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 08:57:28.806] [info] Loading orientations as quaternions from 'save.sto'...
+[2024-04-13 08:57:29.318] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 08:57:47.023] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 08:57:47.023] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 08:57:47.032] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 08:57:47.404] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 08:58:03.049] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 09:01:19.718] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 09:01:19.718] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 09:01:19.721] [info] Loading orientations as quaternions from 'testMotion.sto'...
+[2024-04-13 09:01:20.078] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 09:01:35.699] [info] Wrote IK with IMU tracking results to: 'ik_testMotion.mot'.
+[2024-04-13 09:03:27.444] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 09:03:27.444] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 09:03:27.446] [info] Loading orientations as quaternions from 'testMotion.sto'...
+[2024-04-13 09:03:27.732] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 09:03:43.340] [info] Wrote IK with IMU tracking results to: 'ik_testMotion.mot'.
+[2024-04-13 09:09:12.659] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 09:09:12.659] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 09:30:33.472] [info] Loaded model 3DGaitModel2354_calibrated from file LeftSide_v02_calibrated6.osim
+[2024-04-13 09:30:33.480] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 09:30:33.536] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 09:30:34.220] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 09:30:40.837] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 09:30:46.015] [info] Loaded model 3DGaitModel2354_calibrated from file LeftSide_v02_calibrated6.osim
+[2024-04-13 09:30:46.015] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 09:30:46.020] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 09:30:46.444] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 09:30:53.047] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 09:53:30.483] [info] Loaded model 3DGaitModel2354_calibrated from file LeftSide_v02_calibrated6.osim
+[2024-04-13 09:53:30.483] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 09:53:30.486] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 09:53:30.913] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 09:54:09.204] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 09:54:09.210] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 09:54:09.264] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 09:54:09.678] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 09:54:23.289] [info] Wrote IK with IMU tracking results to: 'ik_save2.mot'.
+[2024-04-13 09:55:20.821] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked.osim
+[2024-04-13 09:55:20.821] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 09:55:20.824] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 09:55:21.240] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 09:55:34.876] [info] Wrote IK with IMU tracking results to: 'ik_save2.mot'.
+[2024-04-13 10:01:06.868] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked.osim
+[2024-04-13 10:01:06.868] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:01:06.873] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:01:07.341] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:01:21.483] [info] Wrote IK with IMU tracking results to: 'ik_save2.mot'.
+[2024-04-13 10:01:46.730] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked.osim
+[2024-04-13 10:01:46.730] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:01:46.733] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:01:47.140] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:03:01.239] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked.osim
+[2024-04-13 10:03:01.240] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:03:01.243] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:03:01.650] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:03:15.244] [info] Wrote IK with IMU tracking results to: 'ik_save2.mot'.
+[2024-04-13 10:15:35.166] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked_ed.osim
+[2024-04-13 10:15:35.167] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:15:35.170] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:15:35.557] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:15:49.223] [info] Wrote IK with IMU tracking results to: 'ik_save2.mot'.
+[2024-04-13 10:19:46.205] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked_ed.osim
+[2024-04-13 10:19:46.206] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:19:46.209] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:19:46.532] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:20:17.279] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked_ed.osim
+[2024-04-13 10:20:17.280] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:20:17.284] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:20:17.708] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:21:04.795] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked_ed.osim
+[2024-04-13 10:21:04.795] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:21:04.798] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:21:05.205] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:23:48.651] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked_ed.osim
+[2024-04-13 10:23:48.651] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:23:48.654] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:23:49.077] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:24:02.698] [info] Wrote IK with IMU tracking results to: 'ik_save2.mot'.
+[2024-04-13 10:24:15.577] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked_ed.osim
+[2024-04-13 10:24:15.577] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:24:15.581] [info] Loading orientations as quaternions from 'save2.sto'...
+[2024-04-13 10:24:15.928] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:24:29.515] [info] Wrote IK with IMU tracking results to: 'ik_save2.mot'.
+[2024-04-13 10:25:53.454] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 10:25:53.454] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 10:25:53.465] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 10:25:53.761] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 10:26:08.604] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 12:53:37.273] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 12:53:37.275] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 12:53:37.283] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 12:53:37.722] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 12:53:55.417] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:15:53.358] [info] Loaded model 3DGaitModel2354 from file LeftSideUnlocked.osim
+[2024-04-13 15:15:53.359] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:15:53.363] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:15:53.836] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:16:10.641] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:16:24.780] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:16:24.780] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:16:24.784] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:16:25.196] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:16:42.019] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:22:31.448] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:22:31.448] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:22:31.451] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:22:31.871] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:22:48.706] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:38:57.802] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:38:57.802] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:38:57.805] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:38:58.239] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:39:15.058] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:40:40.820] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:40:40.820] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:40:40.823] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:40:41.229] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:40:58.035] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:41:33.810] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:41:33.811] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:41:33.814] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:41:34.205] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:42:02.441] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:42:02.442] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:42:02.445] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:42:02.839] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:42:19.674] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:42:25.223] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:42:25.223] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:42:25.226] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:42:25.646] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:42:42.446] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:43:13.367] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:43:13.368] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:43:13.371] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:43:13.757] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:43:30.570] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:43:33.297] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:43:33.298] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:43:33.301] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:43:33.721] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:43:40.886] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:43:40.886] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:43:40.889] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:43:41.317] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:43:58.112] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:45:24.206] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:45:24.206] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:45:24.210] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:45:24.608] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:45:39.053] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:45:39.054] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:45:39.057] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:45:39.467] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:45:56.291] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:46:30.092] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:46:30.093] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:46:30.096] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:46:30.429] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:46:47.256] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:48:01.277] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:48:01.277] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:48:01.280] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:48:01.679] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:48:13.808] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:48:13.808] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:48:13.811] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:48:14.218] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:48:31.026] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:50:00.865] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:50:00.865] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:50:00.870] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:50:01.321] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:50:18.187] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:51:07.069] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:51:07.069] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:51:07.072] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:51:07.488] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:51:24.309] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:54:32.324] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:54:32.324] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:54:32.327] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:54:32.734] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:54:49.560] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:56:15.011] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:56:15.011] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:56:15.014] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:56:15.428] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:56:32.248] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 15:57:37.660] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 15:57:37.660] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 15:57:37.663] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 15:57:38.093] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 15:57:54.958] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:02:38.524] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:02:38.524] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:02:38.527] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:02:38.960] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:02:55.858] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:08:34.258] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:08:34.258] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:08:34.261] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:08:34.741] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:08:51.639] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:10:28.466] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:10:28.466] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:10:28.469] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:10:28.925] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:10:45.775] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:12:42.459] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:12:42.459] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:12:42.463] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:12:42.854] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:12:59.675] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:13:36.247] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:13:36.247] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:13:36.250] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:13:36.640] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:13:53.462] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:14:27.721] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:14:27.722] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:14:27.725] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:14:28.132] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:14:44.933] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:15:27.436] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:15:27.437] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:15:27.440] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:15:27.838] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:15:44.659] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:16:24.054] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:16:24.054] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:16:24.057] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:16:24.453] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:16:26.943] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:17:01.043] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:17:01.043] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:17:01.046] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:17:01.495] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:17:03.973] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:17:24.209] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:17:24.209] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:17:24.212] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:17:24.626] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:17:41.470] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:27:28.511] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:27:28.512] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:27:28.515] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:27:28.936] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:27:35.627] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:29:20.074] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:29:20.074] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:29:20.078] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:29:20.434] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:29:37.271] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:31:15.167] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:31:15.167] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:31:15.171] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:31:15.626] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:31:32.468] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:32:33.869] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:32:33.869] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:32:33.873] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:32:34.273] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:32:51.122] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:33:19.764] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:33:19.764] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:33:19.768] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:33:20.203] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:33:37.023] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:34:29.879] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:34:29.879] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:34:29.883] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:34:30.308] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:34:47.137] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-13 16:38:00.343] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-13 16:38:00.343] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-13 16:38:00.346] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-13 16:38:00.764] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-13 16:38:17.608] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-16 23:43:27.887] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-16 23:43:27.892] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-16 23:43:27.925] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-16 23:43:28.345] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-16 23:43:45.116] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
+[2024-04-16 23:45:15.801] [info] Loaded model 3DGaitModel2354 from file LeftSide.osim
+[2024-04-16 23:45:15.801] [warning] Couldn't find file 'pelvis.vtp'.
+[2024-04-16 23:45:15.803] [info] Loading orientations as quaternions from 'FinalMotion.sto'...
+[2024-04-16 23:45:16.080] [info] InverseKinematicsSolver found 2 model frames to track.
+[2024-04-16 23:45:32.861] [info] Wrote IK with IMU tracking results to: 'ik_FinalMotion.mot'.
