@@ -10,9 +10,9 @@ https://github.com/mazurmyk/MEGN-535_Final/assets/124549691/8fe37ae1-a00a-4113-9
 ![ID](https://github.com/mazurmyk/MEGN-535_Final/assets/124549691/9558e8bf-c872-4a99-aa56-d9ed73906d8c)
 
 ## Computed Muscle Control
-### Activation Force
+### Actuation Force
 ![CMC_AF](https://github.com/mazurmyk/MEGN-535_Final/assets/124549691/daac47d7-4d23-4f7c-8b67-5944b5d2ba80)
-### Activation Power
+### Actuation Power
 ![CMC_AP](https://github.com/mazurmyk/MEGN-535_Final/assets/124549691/42f7b598-9941-4ab3-ae97-e4244813ffde)
 ### Muscle Fiber Length
 ![CMC_FL](https://github.com/mazurmyk/MEGN-535_Final/assets/124549691/020d7eef-0e5e-4954-bef9-3e140a9228d7)
