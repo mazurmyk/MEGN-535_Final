@@ -1,4 +1,4 @@
-<span style="font-size:0.5em;">Modeling and Simulation of Human Movement</span>
+<span style="font-size:30;">Modeling and Simulation of Human Movement</span>
 
 Final Project Assignment
 
